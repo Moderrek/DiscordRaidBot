@@ -5,8 +5,6 @@ namespace DiscordRaidBot
     public partial class DiscordRaidBotForm : Form
     {
 
-        //MTAxNTkyOTIzMTc0Nzg1ODUxMg.GrwssV.abK96iHJlIdmMdw2nwCSF2sV8cVfJS4q5VuFnk
-
         public RaidBot raidBot;
         public ChatForm chatForm;
 
